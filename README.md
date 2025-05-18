@@ -10,3 +10,4 @@
 
 
 NYC Analyzing Potential Hours to post in Hacker News Community
+Analyze data on Google Play and Apple Store to determine what types of genres on two apps are likely to attract more users
