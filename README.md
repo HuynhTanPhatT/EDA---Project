@@ -1,4 +1,4 @@
-# NYC Taxi Project
+# Exploratory Data Analysis (EDA) Projects
 - ✅ Features
  1. A Quality Data Report: Null checks, duplicate checks, unique checks
 - 📂 Files
