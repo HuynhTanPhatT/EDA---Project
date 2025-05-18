@@ -31,7 +31,7 @@ The purpose of this EDA is to determine:
 - Introduction: We are going to work with the data about art in the Museum of Modern Art (MoMA) in New York City, which has one of the largest collections of modern art in the World
 
 **Profitable Apps for Google and AppleStore EDA**
--Introduction: I'm working as a Data Analyst for a foreign company and my mission is to analyze data on Google Play and Apple Store to determine what types of genres on two apps are likely to attract more users. The company only builds apps that are free to download and install, and  designs them for English-Speaking audience.
+- Introduction: I'm working as a Data Analyst for a foreign company and my mission is to analyze data on Google Play and Apple Store to determine what types of genres on two apps are likely to attract more users. The company only builds apps that are free to download and install, and  designs them for English-Speaking audience.
 
 ![image](https://github.com/user-attachments/assets/a6348fac-38e2-4b66-85fa-dc67c71f0df8)
 
