@@ -1,8 +1,8 @@
 # Exploratory Data Analysis (EDA) Projects
 # Overview
 This repository contains a collection of my personal Exploratory Data Analysis (EDA) projects. Each project involves exploring various datasets to gain insights, uncover patterns, and visualize trends.
-#Project
-Hacker New Community EDA
+# Project
+* Hacker New Community EDA
 With the explosive of growth in computer , there are lots of communities on online to help you searching and studying, for instance: *StackOverFlow, Reddit, dev.to, and HackerNew*. In this project, i am going to work as a Data Analyst to analyze "Hacker New" dataset. My aim for this project is to determine:
 - The potential hours to post in Hacker News Community
 - Which type of post is more common in the community: Ask HN or Show HN?
