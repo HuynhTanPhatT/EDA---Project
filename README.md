@@ -17,7 +17,6 @@ This repository contains a collection of my personal Exploratory Data Analysis (
 - Introduction: With the explosive of growth in computer , there are lots of communities on online to help you searching and studying, for instance: *StackOverFlow, Reddit, dev.to, and HackerNew*. In this project, i am going to work as a Data Analyst to analyze "Hacker New" dataset. My aim for this project is to determine:
 - The potential hours to post in Hacker News Community
 - Which type of post is more common in the community: Ask HN or Show HN?
-![HackerNew](https://github.com/user-attachments/assets/9fe35e82-336a-42e8-90af-e788d3c95d94)
 ![HackewNew](https://github.com/user-attachments/assets/60a1957f-3e37-43b8-b68f-0839be054401)
 
 
