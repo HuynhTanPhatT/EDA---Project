@@ -10,6 +10,8 @@ This repository contains a collection of my personal Exploratory Data Analysis (
 1. Analyzing weekly posting frequency
 2. Estimating the number of days a car stays Online Before Sale
 3. Evaluating price distribution
+![image](https://github.com/user-attachments/assets/28ee611a-c757-4000-bff2-00c83dd342f1)
+
    
 **Hacker New Community EDA**
 - Introduction: With the explosive of growth in computer , there are lots of communities on online to help you searching and studying, for instance: *StackOverFlow, Reddit, dev.to, and HackerNew*. In this project, i am going to work as a Data Analyst to analyze "Hacker New" dataset. My aim for this project is to determine:
@@ -17,6 +19,7 @@ This repository contains a collection of my personal Exploratory Data Analysis (
 - Which type of post is more common in the community: Ask HN or Show HN?
 ![HackerNew](https://github.com/user-attachments/assets/9fe35e82-336a-42e8-90af-e788d3c95d94)
 ![HackewNew](https://github.com/user-attachments/assets/60a1957f-3e37-43b8-b68f-0839be054401)
+
 
 **NYC Taxi EDA**
 - Introduction: Thesedays, with the high population density in New York City (NYC), for-hire vehicles have become a convenient and comfortable option for people who need to travel, who do not own a car,want to avoid finding parking lot, commute for work or study. In this project, i am going to work as a Data Analyst to explore and analyze a small "NYC Taxi" dataset.
@@ -27,8 +30,7 @@ The purpose of this EDA is to determine:
 ![NycData](https://github.com/user-attachments/assets/412ab606-673b-43b6-b37f-a1d913e37cbc)
 ![NYC](https://github.com/user-attachments/assets/b6e92792-1eef-4eb4-96ac-6ba519f62f33)
 
-**MOMA Art EDA**
-- Introduction: We are going to work with the data about art in the Museum of Modern Art (MoMA) in New York City, which has one of the largest collections of modern art in the World
+
 
 **Profitable Apps for Google and AppleStore EDA**
 - Introduction: I'm working as a Data Analyst for a foreign company and my mission is to analyze data on Google Play and Apple Store to determine what types of genres on two apps are likely to attract more users. The company only builds apps that are free to download and install, and  designs them for English-Speaking audience.
