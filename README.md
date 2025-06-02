@@ -27,7 +27,6 @@ The purpose of this EDA is to determine:
 - Which is the busiest airport?
 - What are the averages for trip distance, trip length, and total amount for rides under a particular speed?
 ![NycData](https://github.com/user-attachments/assets/412ab606-673b-43b6-b37f-a1d913e37cbc)
-![NYC](https://github.com/user-attachments/assets/b6e92792-1eef-4eb4-96ac-6ba519f62f33)
 
 
 
