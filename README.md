@@ -28,6 +28,10 @@ The purpose of this EDA is to determine:
 - What are the averages for trip distance, trip length, and total amount for rides under a particular speed?
 ![NycData](https://github.com/user-attachments/assets/412ab606-673b-43b6-b37f-a1d913e37cbc)
 
+**Metro Interstate Traffic Volume EDA**
+- Traffic Congestion is a huge problem for many cities around the world, caused by various factors such as high traffic density, pedestrian, weather conditions, accidents, etc.
+- In this project, we're going to explore a dataset titled **`Heavy Traffic Indicators in `The Midway Sation`** which is between Minneapolis and Saint Paul. 
+- The purpose of this analysis is to uncover indicators causing heavy traffic in the station. 
 
 
 **Profitable Apps for Google and AppleStore EDA**
