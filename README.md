@@ -32,6 +32,7 @@ The purpose of this EDA is to determine:
 - Traffic Congestion is a huge problem for many cities around the world, caused by various factors such as high traffic density, pedestrian, weather conditions, accidents, etc.
 - In this project, we're going to explore a dataset titled **`Heavy Traffic Indicators in `The Midway Sation`** which is between Minneapolis and Saint Paul. 
 - The purpose of this analysis is to uncover indicators causing heavy traffic in the station. 
+![image](https://github.com/user-attachments/assets/e5707bcf-80ac-47e0-9af2-d519de258528)
 
 
 **Profitable Apps for Google and AppleStore EDA**
